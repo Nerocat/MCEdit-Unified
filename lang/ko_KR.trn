@@ -408,9 +408,9 @@ t192 선택 영역을 청크 경계까지 늘립니다.
 o193 Selected Chunks:
 t193 선택된 청크:
 o194 Extract
-t194 Extract
+t194 추출
 o195 Create
-t195 Create
+t195 생성
 o196 Prune
 t196 Prune
 o197 Relight
@@ -594,21 +594,21 @@ t278 Water Breathing
 o279 Regeneration
 t279 Regeneration
 o280 Poison
-t280 Poison
+t280 독
 o281 Resistance
-t281 Resistance
+t281 저항
 o282 Hunger (no mob effect)
-t282 Hunger (no mob effect)
+t282 배고픔 (no mob effect)
 o283 Haste (no mob effect)
-t283 Haste (no mob effect)
+t283 성급함 (no mob effect)
 o284 Fire Resistance
-t284 Fire Resistance
+t284 화염 저항
 o285 Blindness (no mob effect)
 t285 Blindness (no mob effect)
 o286 Jump Boost
 t286 Jump Boost
 o287 Effect
-t287 Effect
+t287 효과
 o288 Level
 t288 Level
 o289 Duration (Seconds)
@@ -628,13 +628,13 @@ t295 Colorwires
 o296 Create Busses
 t296 Create Busses
 o297 Create Shops
-t297 Create Shops
+t297 상점 생성
 o298 Create Spawners
 t298 Create Spawners
 o299 Decliff
 t299 Decliff
 o300 Find
-t300 Find
+t300 찾기
 o301 Forester
 t301 Forester
 o302 Make Mobs Invincible
@@ -650,7 +650,7 @@ t306 Update Filters
 o307 Max Seed
 t307 Max Seed
 o308 Health
-t308 Health
+t308 체력
 o309 VelocityX
 t309 VelocityX
 o310 VelocityY
@@ -658,15 +658,15 @@ t310 VelocityY
 o311 VelocityZ
 t311 VelocityZ
 o312 Fire
-t312 Fire
+t312 화염
 o313 FallDistance
 t313 FallDistance
 o314 AttackTime
-t314 AttackTime
+t314 공격시간
 o315 HurtTime
 t315 HurtTime
 o316 Lightning
-t316 Lightning
+t316 번개
 o317 No Lightning
 t317 No Lightning
 o318 Lightning Creeper
@@ -678,13 +678,13 @@ t320 Enderman Block Data
 o321 Villager (green)
 t321 Villager (green)
 o322 Farmer (brown)
-t322 Farmer (brown)
+t322 농부 (brown)
 o323 Butcher (white apron)
-t323 Butcher (white apron)
+t323 백정 (white apron)
 o324 Librarian (white)
 t324 Librarian (white)
 o325 Blacksmith (black apron)
-t325 Blacksmith (black apron)
+t325 대장장이 (black apron)
 o326 Priest (purple)
 t326 Priest (purple)
 o327 Villager Profession
@@ -694,7 +694,7 @@ t328 Slime Size
 o329 Breeding Mode Ticks
 t329 Breeding Mode Ticks
 o330 Child/Adult Age
-t330 Child/Adult Age
+t330 어린이/성인
 o331 Repairs the backwards surfaces made by old versions of Minecraft.
 t331 오래된 버전의 마인크래프트가 만든 거꾸로 된 표면을 수정합니다.
 o332 Makes water in the region flood outwards and downwards, becoming full source blocks in the process. This is similar to Minecraft Classic water.
@@ -718,7 +718,7 @@ t340 Give Experience per a Trade
 o341 Make Villager not Move
 t341 Make Villager not Move
 o342 Villager Name
-t342 Villager Name
+t342 마을 사람 이름
 o343 Trade
 t343 거래
 o344       Rotate the Position of your Trader
@@ -866,33 +866,33 @@ t407 Ocean
 o408 Plains
 t408 Plains
 o409 Desert
-t409 Desert
+t409 사막
 o410 Extreme Hills
 t410 Extreme Hills
 o411 Forest
-t411 Forest
+t411 숲
 o412 Taiga
 t412 Taiga
 o413 Swamppland
-t413 Swamppland
+t413 늪지대
 o414 River
-t414 River
+t414 강
 o415 Hell (Nether)
-t415 Hell (Nether)
+t415 지옥 (Nether)
 o416 Sky (End)
 t416 Sky (End)
 o417 Frozen Ocean
-t417 Frozen Ocean
+t417 얼은 바다
 o418 Frozen River
-t418 Frozen River
+t418 얼은 강
 o419 Ice Plains
-t419 Ice Plains
+t419 백 평야
 o420 Ice Mountains
-t420 Ice Mountains
+t420 설산
 o421 Mushroom Island
-t421 Mushroom Island
+t421 버섯 섬
 o422 Mushroom Island Shore
-t422 Mushroom Island Shore
+t422 버섯 섬 해안
 o423 Beach
 t423 Beach
 o424 Desert Hills
